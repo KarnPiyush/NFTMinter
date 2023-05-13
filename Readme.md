@@ -21,23 +21,25 @@ Node.js installed on your local machine.
 Starton API Key
 .env file in the project root directory with the following keys:
 
-SMART_CONTRACT_NETWORK=
-SMART_CONTRACT_ADDRESS=
-WALLET_IMPORTED_ON_STARTON=
-api_key=
+    SMART_CONTRACT_NETWORK=
+    SMART_CONTRACT_ADDRESS=
+    WALLET_IMPORTED_ON_STARTON=
+    api_key=
 
-How to Use
-Clone the repository to your local machine.
-Install dependencies using npm install.
-Run the application using npm start.
-Navigate to http://localhost:3000 in your web browser.
-Select a file using the "Choose File" button.
-Click the "Nft Minter" button to process and mint the file as an NFT.
-Libraries and Frameworks Used
-React.js
-Express.js
-Multer
-Cors
-Axios
-License
+How to Use?
+1.Clone the repository to your local machine.
+2.Install dependencies using npm install.
+3.Run the application using npm start.
+4.Navigate to http://localhost:3000 in your web browser.
+5.Select a file using the "Choose File" button.
+6.Click the "Nft Minter" button to process and mint the file as an NFT.
+
+
+Libraries and Frameworks Used:
+    React.js
+    Express.js
+    Multer
+    Cors
+    Axios
+    License
 This project is licensed under the MIT License - see the LICENSE file for details.
